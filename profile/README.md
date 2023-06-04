@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/1078837522882367508/1114897951177855059/fstech_logo.png">
 </p>
 
-## 👋 Tentamg
+## 👋 Tentang
 FutureSeekerTech adalah organasisasi yang menyediakan open source code FiveM dan script code FiveM berbayar, serta menyediakan segala jenis jasa yang berkaitan dengan FiveM.
 
 ## 👉 Join the community
