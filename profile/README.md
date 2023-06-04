@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="240" src="https://cdn.discordapp.com/attachments/1078837522882367508/1114897951177855059/fstech_logo.png">
+  <img src="https://cdn.discordapp.com/attachments/1078837522882367508/1114897951177855059/fstech_logo.png">
 </p>
 
 ## 👋 Temtamg
